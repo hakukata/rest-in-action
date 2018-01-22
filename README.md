@@ -1,5 +1,7 @@
 # REST in Action 《REST 实战》
 
+> 本开源书 forked from [REST 实战](https://github.com/waylau/rest-in-action)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/rest-in-action)，以便获得最新更新，谢谢！
+
 REST in Action base on Jersey.Learning REST step by step with a large number of samples and finally build a complete RESTful application.There is also a GitBook version of the book: <http://waylau.gitbooks.io/rest-in-action>.
 Let's [READ](SUMMARY.md)!
 
